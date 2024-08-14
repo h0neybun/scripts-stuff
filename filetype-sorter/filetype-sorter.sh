@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 folder_path=~/Downloads
 
 for file in $folder_path/*;do
